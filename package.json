@@ -1,0 +1,28 @@
+{
+  "name": "trans-day-of-visibility",
+  "version": "0.0.1",
+  "description": "a website for ToV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaRamirez/trans-day-of-visibility.git"
+  },
+  "keywords": [
+    "trans",
+    "transgender",
+    "day",
+    "visibility"
+  ],
+  "author": "Emma Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmmaRamirez/trans-day-of-visibility/issues"
+  },
+  "homepage": "https://github.com/EmmaRamirez/trans-day-of-visibility#readme",
+  "devDependencies": {
+    "node-sass": "^3.4.2"
+  }
+}
