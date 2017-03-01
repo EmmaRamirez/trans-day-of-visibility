@@ -23,13 +23,13 @@
   },
   "homepage": "https://github.com/EmmaRamirez/trans-day-of-visibility#readme",
   "devDependencies": {
-    "node-sass": "^3.4.2"
+    "node-sass": "^4.5.0"
   },
   "dependencies": {
-    "css-loader": "^0.23.1",
+    "css-loader": "^0.26.2",
     "express": "^4.13.4",
-    "jquery": "^2.2.1",
-    "materialize-css": "^0.97.5",
+    "jquery": "^3.1.1",
+    "materialize-css": "^0.98.0",
     "normalize-css": "^2.3.1"
   }
 }
